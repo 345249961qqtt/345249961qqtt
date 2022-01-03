@@ -1,4 +1,4 @@
-### Hi there 👋
+#  humility is the foundation of glory. —charles hodges 👋
 
 <!--
 **345249961qqtt/345249961qqtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
